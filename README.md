@@ -2,29 +2,53 @@
 
 # Date:
 # Register no: 212222240101
-# Aim: 
+## Aim: 
 To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-# Tools Required: 
-Python, Command Line Interface, AI Prompt Design Concepts
+## Tools Required: 
+AI model(ChatGPT, gemini or etc..), Python, Command Line Interface
 
-# Procedure:
+## Procedure:
+
+- Defined the goal to create a Personal Productivity Assistant that responds to user prompts naturally.
+
+- Identified core features like task manager, reminders, wellness tips, and greetings.
+
+- Designed sample prompts such as “Add task finish project,” “Remind me to call mom at 9 PM,” and “Give me a wellness tip.”
+
+- Implemented the logic in Python using conditional statements to process prompts and generate responses.
+
+- Simulated user interaction through a command-line interface to accept natural language inputs.
+
+- Added simple memory to store user preferences like name and wellness tips.
+
+- Executed and tested the application to verify correct responses for each prompt.
+
+
+## Prompt:
 ```
-Defined the goal to create a Personal Productivity Assistant that responds to user prompts naturally.
+"Help me develop a Python program for a prompt-based personal assistant. The assistant should:
 
-Identified core features like task manager, reminders, wellness tips, and greetings.
+Greet the user and have a friendly conversation.
 
-Designed sample prompts such as “Add task finish project,” “Remind me to call mom at 9 PM,” and “Give me a wellness tip.”
+Ask for the user's name and remember it for the session.
 
-Implemented the logic in Python using conditional statements to process prompts and generate responses.
+Provide the current time when asked.
 
-Simulated user interaction through a command-line interface to accept natural language inputs.
+Allow the user to add tasks to a task list.
 
-Added simple memory to store user preferences like name and wellness tips.
+Set reminders for specific tasks with time.
 
-Executed and tested the application to verify correct responses for each prompt.
+Provide wellness tips on request.
+
+List all added tasks when requested.
+
+Respond politely and encourage productivity.
+
+Write the complete Python code for this assistant, using simple functions and input/output commands, so that the program runs interactively in the terminal."
+
 ```
-# Output:
+## Output:
 <img width="982" height="421" alt="Screenshot 2025-11-08 204352" src="https://github.com/user-attachments/assets/032e4a17-631a-493f-b9ce-8ef8506d1e0b" />
 
 <img width="885" height="288" alt="Screenshot 2025-11-08 204413" src="https://github.com/user-attachments/assets/095ab0bd-3d41-45a8-88ee-cf2487b4feb4" />
@@ -32,7 +56,7 @@ Executed and tested the application to verify correct responses for each prompt.
 <img width="488" height="151" alt="Screenshot 2025-11-08 204734" src="https://github.com/user-attachments/assets/9d759874-d546-4ec4-8cbc-6c821457c408" />
 
 
-# Result: 
+## Result: 
 The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:
 
  Understand how to tailor LLM prompts to real-life applications.
