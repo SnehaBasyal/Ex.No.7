@@ -29,21 +29,21 @@ AI model(ChatGPT, gemini or etc..), Python, Command Line Interface
 ```
 "Help me develop a Python program for a prompt-based personal assistant. The assistant should:
 
-Greet the user and have a friendly conversation.
+1. Greet the user and have a friendly conversation.
 
-Ask for the user's name and remember it for the session.
+2. Ask for the user's name and remember it for the session.
 
-Provide the current time when asked.
+3. Provide the current time when asked.
 
-Allow the user to add tasks to a task list.
+4. Allow the user to add tasks to a task list.
 
-Set reminders for specific tasks with time.
+5. Set reminders for specific tasks with time.
 
-Provide wellness tips on request.
+6. Provide wellness tips on request.
 
-List all added tasks when requested.
+7. List all added tasks when requested.
 
-Respond politely and encourage productivity.
+8. Respond politely and encourage productivity.
 
 Write the complete Python code for this assistant, using simple functions and input/output commands, so that the program runs interactively in the terminal."
 
